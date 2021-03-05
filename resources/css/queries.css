@@ -6,6 +6,9 @@
     }
 
     .row { padding: 0 2%; }
+
+    .city-feature { font-size: 80%; }
+    .plan-box ul li { font-size: 90%; }
 }
 
 /* Small tablet to big tablet: 768 to 1023px */
